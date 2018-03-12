@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlphaHotal</string>
+    <string name="activity_info_str">信息</string>
+    <string name="activity_title_str">标题</string>
+    <string name="activity_location_str">位置</string>
+    <string name="activity_time_str">时间</string>
+    <string name="password_str">密码</string>
+    <string name="signup_bt_str">注册</string>
+    <string name="signup_title_str">帐号登录</string>
+    <string name="username_str">房间号</string>
+    <string name="Feedback_str">反馈</string>
+    <string name="Housekeeping_str">家政</string>
+    <string name="Information_str">信息</string>
+    <string name="Maintenance_str">保养</string>
+    <string name="Reception_str">前台</string>
+    <string name="Room_Service_str">客房服务</string>
+    <string name="Security_str">安全</string>
+</resources>

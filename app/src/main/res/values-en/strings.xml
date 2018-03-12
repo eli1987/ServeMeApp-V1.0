@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlphaHotal</string>
+    <string name="activity_info_str">Info</string>
+    <string name="activity_location_str">Location</string>
+    <string name="activity_time_str">Time</string>
+    <string name="activity_title_str">Title</string>
+    <string name="password_str">Password</string>
+    <string name="signup_bt_str">Sign up</string>
+    <string name="signup_title_str">Account Login</string>
+    <string name="username_str">Room number</string>
+    <string name="Feedback_str">Feedback</string>
+    <string name="Housekeeping_str">Housekeeping</string>
+    <string name="Information_str">Information</string>
+    <string name="Maintenance_str">Maintenance</string>
+    <string name="Reception_str">Reception</string>
+    <string name="Room_Service_str">Room Service</string>
+    <string name="Security_str">Security</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlphaHotal</string>
+    <string name="activity_info_str">מידע</string>
+    <string name="activity_location_str">מיקום</string>
+    <string name="activity_time_str">זמן</string>
+    <string name="activity_title_str">כותרת</string>
+    <string name="password_str">סיסמא</string>
+    <string name="signup_bt_str">התחבר</string>
+    <string name="signup_title_str">כניסת משתמש</string>
+    <string name="username_str">מספר חדר</string>
+    <string name="Feedback_str">משובים</string>
+    <string name="Housekeeping_str">משק בית</string>
+    <string name="Information_str">מידע</string>
+    <string name="Maintenance_str">אחזקה</string>
+    <string name="Reception_str">קבלה</string>
+    <string name="Room_Service_str">שירות חדרים</string>
+    <string name="Security_str">ביטחון</string>
+</resources>
